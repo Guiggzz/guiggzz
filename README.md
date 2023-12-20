@@ -50,12 +50,12 @@
 
 ## Status
 
-<a href="https://github.com/Guiggzz" title="ilustração do mapeamento de linguagens">
+<a href="https://github.com/Guiggzz" title="Language">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guiggzz&theme=dracula&hide_langs_below=1" alt="Language"/>
 </a>
 
-<a href="https://github.com/Guiggzz" title="ilustração do mapeamento do perfil">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Guigzz&show_icons=true&theme=dracula&line_height=27" github stats"/>
+<a href="https://github.com/Guiggzz" title="Progression">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Guigzz&theme=dracula&line_height=27" github stats"/>
 </a>
 
 <br>
