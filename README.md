@@ -60,7 +60,7 @@
     <td>
       <br />
       <img
-        align="left"
+        align="right"
         src="https://github-readme-streak-stats.herokuapp.com/?user=Guiggzz&theme=dark&hide_border=false"
         alt="Github stats"
       />
