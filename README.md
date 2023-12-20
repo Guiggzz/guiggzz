@@ -75,7 +75,7 @@
 <br>
 <p align="center">
   <img
-    src="https://profile-counter.glitch.me/victormoreiraofc/count.svg"
+    src="https://profile-counter.glitch.me/Guiggzz/count.svg"
     alt="NBR Visits"
   />
 </p>
