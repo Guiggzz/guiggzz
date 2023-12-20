@@ -4,7 +4,7 @@ I'm Guillaume, a computer science student in France at EPSI school.
 👀 I’m interested in informatique, video games and sports  
 🌱 I’m currently learning python, PHP, html/css  
 
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />  
+<img align="left" width="400" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />  
 
 
 
