@@ -1,6 +1,6 @@
 # Hello everyone 👋
 
-I'm Guillaume, a computer science student in France at EPSI school.  
+🧑‍🎓 I'm Guillaume, a computer science student in France at EPSI school.  
 👀 I’m interested in informatique, video games and sports  
 🌱 I’m currently learning python, PHP, html/css  
 
