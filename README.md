@@ -57,9 +57,6 @@
 <a href="https://github.com/Guiggzz" title="ilustração do mapeamento do perfil">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Guigzz&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
-  
-[instagram]:https://www.instagram.com/guigui_brn_/
-[linkedin]: https://www.linkedin.com/in/guillaume-breon-aa193b295/
 
 <br>
 
