@@ -1,7 +1,7 @@
 # Hello everyone 👋
 
 🧑‍🎓 I'm Guillaume, a computer science student in France at EPSI school.  
-👀 I’m interested by informatique, video games and sports  
+👀 I’m interested in informatique, video games and sports  
 🌱 I’m currently learning python, PHP, html/css  
 
 <img align="left" width="150" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
@@ -58,19 +58,9 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
-[website]: https://codedev.ga/
-[twitter]: https://twitter.com/SEUTWITTER
-[youtube]: https://www.youtube.com/user/SEUYOUTUBE/
-[instagram]: https://www.instagram.com/SEUINSTAGRAM/
-[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
+[instagram]:https://www.instagram.com/guigui_brn_/
+[linkedin]: https://www.linkedin.com/in/guillaume-breon-aa193b295/
 
 <br>
 
-## Rede sociais
-
-🏡 [Website][website] **|**
-🐦 [Twitter][twitter] **|**
-📺 [Youtube][youtube] **|**
-📷 [Instagram][instagram] **|**
-👔 [LinkedIn][linkedin]
 
