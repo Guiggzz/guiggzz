@@ -69,7 +69,7 @@
 
 <br>
 
-<div align="center">
+##<div align="center">
     <b>📍 Profile Visitor Count</b>
 </div>
 <br>
