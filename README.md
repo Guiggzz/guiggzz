@@ -50,13 +50,23 @@
 
 ## Status
 
-<a href="https://github.com/Guiggzz" title="Language">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guiggzz&theme=dracula&hide_langs_below=1" alt="Language"/>
-</a>
-
-<a href="https://github.com/Guiggzz" title="Progression">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Guigzz&theme=dracula&line_height=27" github stats"/>
-</a>
+ <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guiggzz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=Guiggzz&theme=dark&hide_border=false"
+        alt="Github stats"
+      />
+    </td>
+  </tr>
+</table>
 
 <br>
 
