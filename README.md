@@ -49,7 +49,7 @@
     alt="Logo terminal"/></code>
 
 ## Status
-
+<br />
  <td>
       <img
         align="left"
