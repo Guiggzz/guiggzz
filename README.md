@@ -67,5 +67,11 @@
 </table>
 
 <br>
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/Guiggzz/count.svg"
+    alt="Ilustração do número de visitantes no perfil"
+  />
+</p>
 
 
