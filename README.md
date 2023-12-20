@@ -29,6 +29,10 @@ I'm Guillaume, a computer science student in France at EPSI school.
     alt="Logo CSS"/></code>
 <code><img
     height="30"
+    src="https://assets-global.website-files.com/60ec34540d013784844d2ee2/61d42d538aec6733243470a7_Python-logo-p-500.png"
+    alt="Logo CSS"/></code>
+<code><img
+    height="30"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
     alt="Logo javascript"/></code>
 <code><img
