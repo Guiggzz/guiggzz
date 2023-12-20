@@ -1,4 +1,4 @@
-# HELLO EVERYONE 👋
+# Hello everyone 👋
 
 I'm Guillaume, a computer science student in France at EPSI school.
 
