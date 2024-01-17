@@ -57,13 +57,7 @@
         alt="Github stats"
       />
     </td>
-    <td>
-      <img
-        align="right"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=Guiggzz&theme=dark&hide_border=false"
-        alt="Github stats"
-      />
-    </td>
+
   </tr>
 </table>
 
