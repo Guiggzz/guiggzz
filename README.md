@@ -2,7 +2,7 @@
 
 🧑‍💻 Hey there! I'm Guillaume, a computer science student navigating the tech world from EPSI in France.<br>
 🎮 Obsessed with IT and video games, and always ready for some action-packed sports challenges!<br>
-🚀 Currently diving deep into Python, PHP, and JavaScript to build projects that push creative and technical boundaries.
+🚀 Currently diving deep into Python, PHP, and JavaScript to build projects.
 
 <img align="left" width="150" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
