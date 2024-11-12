@@ -48,19 +48,6 @@
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"
     alt="Logo terminal"/></code>
 
-## Status
-<table align="center">
- <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guiggzz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github stats"
-      />
-    </td>
-
-  </tr>
-</table>
-
 <br>
 
 <div align="center">
