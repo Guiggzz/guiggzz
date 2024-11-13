@@ -25,7 +25,7 @@
     alt="Logo CSS"/></code>
 <code><img
     height="30"
-    src="https://avatars.githubusercontent.com/u/25158?s=200&v=4"
+    src="https://avatars.githubusercontent.com/u/25158?s=200v=4"
     alt="Logo CSS"/></code>
 <code><img
     height="30"
