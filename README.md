@@ -50,9 +50,3 @@
     <b>📍 Profile Visitor Count</b>
 </div>
 <br>
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/Guiggzz/count.svg"
-    alt="NBR Visits"
-  />
-</p>
