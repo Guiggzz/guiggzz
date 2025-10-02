@@ -45,8 +45,3 @@
     alt="Logo terminal"/></code>
 
 <br>
-
-<div align="center">
-    <b>📍 Profile Visitor Count</b>
-</div>
-<br>
