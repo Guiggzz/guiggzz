@@ -1,47 +1,22 @@
-# Hello everyone 👋
+# Guillaume
 
-🧑‍💻 Hey there! I'm Guillaume, a computer science student navigating the tech world from EPSI in France.<br>
-🎮 Obsessed with IT and video games, and sports!<br>
-🚀 Currently diving deep into Python, PHP, and JavaScript to build projects.
+Toulouse. Apprentice in IT support, databases, and AI integration.
 
-<img align="left" width="150" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+I pass form data into CRMs. A submission starts in Jotform, an HTTP API carries the fields, and n8n runs the steps. I also look after the databases those forms write to. I do this on Ubuntu, and I keep the history in Git. A page that needs a public URL goes on Vercel.
 
-<br><br><br><br>
+## What I use
 
+- Ubuntu
+- Git
+- Databases
+- n8n
+- Vercel
+- Jotform and HTTP APIs
 
+## Public code
 
+[convertisseur-unites](https://github.com/mattistjnn/testromain) is a unit converter, and the only public project with a commit from me. I reworked the page and added the tests. The page is HTML, CSS, and JavaScript, with Tailwind loaded from the CDN in `index.html`. Unit tests run in Jest with jsdom. End-to-end tests run in Playwright on Chromium. `npm start` serves the page with `http-server`.
 
+## Other hours
 
-
-## Language and tools that I use and learn to use it : 
-
-<code><img
-    height="30"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
-    alt="Logo HTML"/></code>
-<code><img
-    height="30"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"
-    alt="Logo CSS"/></code>
-<code><img
-    height="30"
-    src="https://avatars.githubusercontent.com/u/25158?s=200v=4"
-    alt="Logo CSS"/></code>
-<code><img
-    height="30"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
-    alt="Logo javascript"/></code>
-<code><img
-    height="30"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"
-    alt="Logo visual studio"/></code>
-<code><img
-    height="30"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"
-    alt="Logo git"/></code>
-<code><img
-    height="30"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"
-    alt="Logo terminal"/></code>
-
-<br>
+I play video games. I run on road and on trail, and I play rugby. I stitch leather when I can sit down at a bench.
