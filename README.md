@@ -1,7 +1,7 @@
 # Guillaume Breon
 
 I build tools people actually use at work: forms, back offices, reporting apps.<br>
-Based in Toulouse. Apprentice in IT support, databases and AI integration.
+Developer based in Toulouse.
 
 · · · · · · · · · · · · · · · · · · · · · · · ·
 
