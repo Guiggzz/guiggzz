@@ -8,6 +8,8 @@ I pass form data into CRMs. A submission starts in Jotform, an HTTP API carries 
 
 - Ubuntu
 - Git
+- Laravel
+- Next.js
 - Databases
 - n8n
 - Vercel
