@@ -1,24 +1,34 @@
-# Guillaume
+# Guillaume Breon
 
-Toulouse. Apprentice in IT support, databases, and AI integration.
+I build tools people actually use at work: forms, back offices, reporting apps.<br>
+Based in Toulouse. Apprentice in IT support, databases and AI integration.
 
-I pass form data into CRMs. A submission starts in Jotform, an HTTP API carries the fields, and n8n runs the steps. I also look after the databases those forms write to. I do this on Ubuntu, and I keep the history in Git. A page that needs a public URL goes on Vercel.
+· · · · · · · · · · · · · · · · · · · · · · · ·
 
-## What I use
+### Workbench
 
-- Ubuntu
-- Git
-- Laravel
-- Next.js
-- Databases
-- n8n
-- Vercel
-- Jotform and HTTP APIs
+Laravel · Next.js · TypeScript · Python · Docker · Git
 
-## Public code
+· · · · · · · · · · · · · · · · · · · · · · · ·
 
-[convertisseur-unites](https://github.com/mattistjnn/testromain) is a unit converter, and the only public project with a commit from me. I reworked the page and added the tests. The page is HTML, CSS, and JavaScript, with Tailwind loaded from the CDN in `index.html`. Unit tests run in Jest with jsdom. End-to-end tests run in Playwright on Chromium. `npm start` serves the page with `http-server`.
+### Things I've made
 
-## Other hours
+**Service Forms**<br>
+An internal forms platform built to replace third-party form tools.<br>
+Multi-step forms, file uploads, an admin panel with roles and TOTP 2FA,<br>
+per-form pricing with e-consent and generated PDF attestations,<br>
+GDPR retention and export, and a JSON payload ready for CRM sync.<br>
+`Laravel 12` `Next.js` `PostgreSQL` `Docker` · in production for the internal team
 
-I play video games. I run on road and on trail, and I play rugby. I stitch leather when I can sit down at a bench.
+**Site reports for Resology**<br>
+A full management app for a public works and sanitation company:<br>
+site reports tailored to each type of job, plus staff management.<br>
+`Laravel` `Next.js`
+
+· · · · · · · · · · · · · · · · · · · · · · · ·
+
+### Off the keyboard
+
+I cut and stitch leather handbags by hand.<br>
+I run trails.<br>
+And I still lose too many evenings to video games.
